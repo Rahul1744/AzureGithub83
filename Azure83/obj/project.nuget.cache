@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/tH7e8f6g6EcnsE6JMZZ1mlgn4RZYP8ye/pZEpL1Xl32OrLjmWNzKVM5N6p4pxS6spHIvym4MDgOlPE2hkViEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rahul\\Downloads\\Cognizant intership\\Azure\\Azure83\\Azure83\\Azure83.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rahul\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
